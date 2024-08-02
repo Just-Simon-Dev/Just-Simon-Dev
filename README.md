@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+🔭 I’m currently working as Freelancer previosly was an Software Engineer and Junior Machine Learning Specialist focusing on image classification.
+
+🌱 I’m currently learning a Data Engineering
+
+👯 I’m looking to collaborate on various projects, espacially in C#, python.
+
+📫 How to reach me by my mail: szymonsoborowski@gmail.com
+
+⚡ Fun fact:
+I'm currently a student of Gdańsk University Of Technology
 <!--
 **Just-Simon-Dev/Just-Simon-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
