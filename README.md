@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working as Freelancer previosly was an Software Engineer and Junior Machine Learning Specialist focusing on image classification.
+🔭 I’m currently working as Software Engineer previosly was an Software Engineer and Junior Machine Learning Specialist focusing on image classification.
 
 🌱 I’m currently learning a Data Engineering
 
