@@ -8,7 +8,7 @@
 
 📫 How to reach me by my mail: szymonsoborowski@gmail.com
 
-⚡ Fun fact:
+⚡ Study fact:
 I'm currently a student of Gdańsk University Of Technology
 <!--
 **Just-Simon-Dev/Just-Simon-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
