@@ -50,10 +50,10 @@
 
 | Project                                 | Description                                                    | Tech Stack           | Stars |
 | --------------------------------------- | ------------------------------------------------------------   | -------------------- | ----- |
-| [Black-Hole-Visualization](#)           | Interactive 2D sim of gravitational lensing around black holes | JavaScript, WebGL    | ★ 12  |
-| [HabitablEarth](#)                      | Interactive map that can forecast a weather for some dates     | Python, Airflow      | ★ 8   |
-| [StablElements](#)                      | Predict what atomic element would be created with some data    | C#, ML.NET           | ★ 15  |
-| [dijsktra-algorithm](#)                 | Interactive 2D simulation of working dijkstra algorithm        | Python, TensorFlow   | ★ 20  |
+| [Black-Hole-Visualization](#)           | Interactive 2D sim of gravitational lensing around black holes | JavaScript, WebGL    | ★ 0   |
+| [HabitablEarth](#)                      | Interactive map that can forecast a weather for some dates     | Python, Airflow      | ★ 0   |
+| [StablElements](#)                      | Predict what atomic element would be created with some data    | FastApi, Angular     | ★ 0   |
+| [dijsktra-algorithm](#)                 | Interactive 2D simulation of working dijkstra algorithm        | JavaScript           | ★ 0   |
 
 > 🔗 Check out my full list of repositories in the [Projects](https://github.com/Just-Simon-Dev?tab=repositories) tab.
 
@@ -70,8 +70,8 @@
 ## 📫 How to Reach Me
 
 - ✉️ Email: [szymonsoborowski@gmail.com](mailto:szymonsoborowski@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/{YourLinkedInUsername}](https://linkedin.com/in/{YourLinkedInUsername})
-- 📘 Facebook: [facebook.com/{YourFacebookUsername}](https://www.facebook.com/share/1AUACHHtKm/)
+- 💼 LinkedIn: [https://linkedin.com/in/szymon-soborowski-754b4220b](https://linkedin.com/in/szymon-soborowski-754b4220b)
+- 📘 Facebook: [https://www.facebook.com/share/1AUACHHtKm/](https://www.facebook.com/share/1AUACHHtKm/)
 
 ---
 
