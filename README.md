@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌌 Exploring the cutting-edge as a Researcher at Gradient Science Club—and building a little magic on the side.
+- 🌌 Exploring the cutting-edge as a Researcher at Gradient Science Club and building a little magic on the side.
 - 🔭 I was a **Junior Software Developer**, a **Tech Lead** of chatbot project at the Gradient Science Club.
 - 🎓 I am a **Data Engineering student** at Gdańsk University of Technology, transitioning from project leadership to technical architecture.
 - 🧠 **Deep Dive:** I recently built an **Artificial Neural Network (ANN) with backpropagation from scratch** (no libraries!) to master the fundamentals.
